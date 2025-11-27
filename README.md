@@ -73,7 +73,7 @@ November 30th, 2025
 
 *Any acknowledgments related to funding, contributions, or affiliations can be mentioned here.*
 
-## References
+## Citation
 
 ```bibtex  
 @misc{,  
@@ -85,3 +85,4 @@ November 30th, 2025
       primaryClass={cs.AI},  
       url={},   
 }  
+
