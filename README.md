@@ -47,405 +47,205 @@ If you have any questions or would like to engage with our community, feel free 
 | Title | GitHub |
 | --- | --- |
 | [3mdbench: Medical multimodal multi-agent dialogue benchmark](https://arxiv.org/abs/2504.13861) | [GitHub](https://github.com/univanxx/3mdbench) |
-
 | [A co-evolving agentic AI system for medical imaging analysis](https://arxiv.org/abs/2509.20279) | [GitHub](https://github.com/zhihuanglab/TissueLab) |
-
 | [A dual-agent collaboration framework based on llms for nursing robots to perform bimanual coordination tasks](https://ieeexplore.ieee.org/document/10852163) | Not Available |
-
 | [A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation](https://www.nature.com/articles/s41746-025-01670-7) | Not Available |
-
 | [A hybrid reinforcement learning and knowledge graph framework for financial risk optimization in healthcare systems](https://www.nature.com/articles/s41598-025-14355-8) | Not Available |
-
 | [A Multi-Agent Approach to Neurological Clinical Reasoning](https://arxiv.org/abs/2508.14063) | Not Available |
-
 | [A Multimodal Multi-Agent Framework for Radiology Report Generation](https://arxiv.org/abs/2505.09787) | Not Available |
-
 | [A Proposed LLM-Based Supported Treatment Framework for Intracerebral Hemorrhage](https://ieeexplore.ieee.org/document/10930045) | Not Available |
-
 | [A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889517) | Not Available |
-
 | [A two-stage proactive dialogue generator for efficient clinical information collection using large language model](https://arxiv.org/pdf/2410.03770) | Not Available |
-
 | [A-mem: Agentic memory for llm agents](https://arxiv.org/pdf/2502.12110) | [GitHub](https://github.com/WujiangXu/A-mem) |
-
 | [Actions speak louder than words: Agent decisions reveal implicit biases in language models](https://arxiv.org/pdf/2501.17420) | Not Available |
-
 | [Adagent: Llm agent for alzheimer’s disease analysis with collaborative coordinator](https://arxiv.org/pdf/2506.11150) | Not Available |
-
 | [Agent-Based Uncertainty Awareness Improves Automated Radiology Report Labeling with an Open-Source Large Language Model](https://arxiv.org/abs/2502.01691) | Not Available |
-
 | [Agentic AI for Clinical Decision Support: Real-Time Diagnosis, Triage, and Treatment Planning](https://www.researchgate.net/publication/392210093_Agentic_AI_for_Clinical_Decision_Support_Real-Time_Diagnosis_Triage_and_Treatment_Planning) | Not Available |
-
 | [Agentic Medical Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge](https://arxiv.org/abs/2502.13010) | [GitHub](https://github.com/MrRezaeiUofT/AMG-RAG) |
-
 | [Agentic Workflows in Healthcare: Advancing Clinical Efficiency through AI Integration](https://www.semanticscholar.org/paper/Agentic-Workflows-in-Healthcare%3A-Advancing-Clinical-Joy/edabe3f72382d772a5ec1bb67ac7cd7e38f57137) | Not Available |
-
 | [Agentic-AI Healthcare: Multilingual, Privacy-First Framework with {MCP} Agents](https://arxiv.org/abs/2510.02325) | [GitHub](https://github.com/M12Shehab/Agentic-AI-HealthCare) |
-
 | [AGENTiGraph: A Multi-Agent Knowledge Graph Framework for Interactive, Domain-Specific LLM Chatbots](https://arxiv.org/abs/2508.02999) | [GitHub](https://github.com/SinketsuZao/AGENTiGraph/blob/main/README.md) |
-
 | [Agentmd: Empowering language agents for risk prediction with large-scale clinical tool learning](https://arxiv.org/abs/2402.13225) | [GitHub](https://github.com/ncbi-nlp/Clinical-Tool-Learning) |
-
 | [AI Agents in Clinical Medicine: A Systematic Review](https://www.medrxiv.org/content/10.1101/2025.08.22.25334232v1.full.pdf) | Not Available |
-
 | [AI chatbots as professional service agents: developing a professional identity](https://arxiv.org/abs/2501.14179) | Not Available |
-
 | [AMANDA: Agentic Medical Knowledge Augmentation for Data-Efficient Medical Visual Question Answering](https://arxiv.org/abs/2510.02328) | [GitHub](https://github.com/REAL-Lab-NU/AMANDA) |
-
 | [AMQA: An Adversarial Dataset for Benchmarking Bias of LLMs in Medicine and Healthcare](https://arxiv.org/pdf/2505.19562) | [GitHub](https://github.com/XY-Showing/AMQA) |
-
 | [An active inference strategy for prompting reliable responses from large language models in medical practice](https://arxiv.org/pdf/2407.21051) | Not Available |
-
 | [An Adaptive Multi-Agent LLM-Based Clinical Decision Support System Integrating Biomedical RAG and Web Intelligence](https://ieeexplore.ieee.org/document/11176078) | [GitHub](https://github.com/salihfurkaan/multi-agent-clinical-decision-support-system) |
-
 | [An Agentic Model Context Protocol Framework for Medical Concept Standardization](https://arxiv.org/abs/2509.03828) | [GitHub](https://github.com/OHNLP/omop_mcp) |
-
 | [An agentic system for rare disease diagnosis with traceable reasoning](https://arxiv.org/abs/2506.20430) | Not Available |
-
 | [Architecting Clinical Collaboration: Multi-Agent Reasoning Systems for Multimodal Medical VQA](https://arxiv.org/abs/2507.05520) | [GitHub](https://github.com/karishmathakrar/arc-mediqa-magic-2025/) |
-
 | [ASTRID--An Automated and Scalable TRIaD for the Evaluation of RAG-based Clinical Question Answering Systems](https://arxiv.org/abs/2501.08208) | Not Available |
-
 | [At-cxr: Uncertainty-aware agentic triage for chest x-rays](https://arxiv.org/abs/2508.19322) | [GitHub](https://github.com/XLIAaron/uncertainty-aware-cxr-agent) |
-
 | [Audited Reasoning Refinement: Fine-Tuning Language Models via LLM-Guided Step-Wise Evaluation and Correction](https://arxiv.org/abs/2509.12476) | Not Available |
-
 | [AURA: A Multi-modal Medical Agent for Understanding, Reasoning and Annotation](https://arxiv.org/abs/2507.16940) | [GitHub](https://github.com/NimaFathi/AURA) |
-
 | [Automating evaluation of AI text generation in healthcare with a large language model](https://pubmed.ncbi.nlm.nih.gov/40313300/) | Not Available |
-
 | [Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery](https://arxiv.org/abs/2505.21418) | [GitHub](https://anonymous.4open.science/r/FUAS-7D56) |
-
 | [Autonomous Radiotherapy Treatment Planning Using DOLA: A Privacy-Preserving, LLM-Based Optimization Agent](https://arxiv.org/abs/2503.17553) | Not Available |
-
 | [Balancing Fairness and Performance in Healthcare {AI}: A Gradient Reconciliation Approach](https://arxiv.org/pdf/2504.14388) | Not Available |
-
 | [Benchmarking Automatic Speech Recognition coupled LLM Modules for Medical Diagnostics](https://arxiv.org/abs/2502.13982) | Not Available |
-
 | [Beyond Benchmarks: Dynamic, Automatic and Systematic Red-Teaming Agents for Trustworthy Medical Language Models](https://arxiv.org/abs/2508.00923) | [GitHub](https://github.com/JZPeterPan/DAS-Medical-Red-teaming-Agents) |
-
 | [Beyond Benchmarks: Evaluating Generalist Medical Artificial Intelligence With Psychometrics](https://www.sciencedirect.com/org/science/article/pii/S1438887125007538) | Not Available |
-
 | [Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs](https://arxiv.org/pdf/2502.21030) | Not Available |
-
 | [Bridging Clinical Narratives and ACR Appropriateness Guidelines: A Multi-Agent RAG System for Medical Imaging Decisions](https://arxiv.org/abs/2510.04969) | [GitHub](https://anonymous.4open.science/r/demo-iclr-B567/) |
-
 | [Cancer-Myth: Evaluating Large Language Models on Patient Questions with False Presuppositions](https://arxiv.org/abs/2504.11373) | [GitHub](https://github.com/Bill1235813/cancer-myth) |
-
 | [CancerGUIDE: Cancer Guideline Understanding via Internal Disagreement Estimation](https://arxiv.org/abs/2509.07325) | [GitHub](https://github.com/aunell/CancerGUIDE) |
-
 | [CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction using longitudinal clinical notes](https://www.nature.com/articles/s41746-025-01940-4) | Not Available |
-
 | [CataractSurg-80K: Knowledge-Driven Benchmarking for Structured Reasoning in Ophthalmic Surgery Planning](https://arxiv.org/abs/2508.20014) | Not Available |
-
 | [Chain of Thought Strategy for Smaller LLMs for Medical Reasoning](https://pubmed.ncbi.nlm.nih.gov/40380574/) | Not Available |
-
 | [Chatbot To Help Patients Understand Their Health](https://arxiv.org/abs/2509.05818) | [GitHub](https://github.com/memy85/2024_chatbot_noteaid) |
-
 | [ChatMyopia: An AI Agent for Pre-consultation Education in Primary Eye Care Settings](https://arxiv.org/abs/2507.19498) | Not Available |
-
 | [Cod, towards an interpretable medical agent using chain of diagnosis](https://aclanthology.org/2025.findings-acl.740.pdf) | [GitHub](https://github.com/FreedomIntelligence/Chain-of-Diagnosis) |
-
 | [Code Like Humans: A Multi-Agent Solution for Medical Coding](https://arxiv.org/abs/2509.05378) | [GitHub](https://github.com/MotzWanted/codeseeker) |
-
 | [Conversational health agents: a personalized large language model-powered agent framework](https://arxiv.org/pdf/2310.02374) | [GitHub](https://github.com/Institute4FutureHealth/CHA) |
-
 | [CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering](https://arxiv.org/abs/2505.16229) | Not Available |
-
 | [Data Overdose? Time for a Quadruple Shot: Knowledge Graph Construction Using Enhanced Triple Extraction](https://arxiv.org/abs/2508.03438) | Not Available |
-
 | [Data Poisoning Vulnerabilities Across Healthcare AI Architectures: A Security Threat Analysis](https://arxiv.org/abs/2511.11020) | Not Available |
-
 | [Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines](https://arxiv.org/abs/2502.15698) | Not Available |
-
 | [Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology](https://arxiv.org/abs/2404.04667) | Not Available |
-
 | [Differential privacy for medical deep learning: methods, tradeoffs, and deployment implications](https://arxiv.org/abs/2506.00660) | Not Available |
-
 | [Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning](https://arxiv.org/pdf/2505.15687) | Not Available |
-
 | [Disentangling memory and reasoning ability in large language models](https://arxiv.org/abs/2411.13504) | [GitHub](https://github.com/MingyuJ666/Disentangling-Memory-and-Reasoning) |
-
 | [DispatchMAS: Fusing taxonomy and artificial intelligence agents for emergency medical services](https://arxiv.org/abs/2510.21228) | Not Available |
-
 | [Doctor-R1: Mastering Clinical Inquiry with Experiential Agentic Reinforcement Learning](https://arxiv.org/abs/2510.04284) | [GitHub](https://github.com/thu-unicorn/Doctor-R1) |
-
 | [Doctoragent-rl: A multi-agent collaborative reinforcement learning system for multi-turn clinical dialogue](https://arxiv.org/abs/2505.19630) | [GitHub](https://github.com/JarvisUSTC/DoctorAgent-RL/blob/main/README.md) |
-
 | [Dr. Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian](https://arxiv.org/abs/2507.11299) | Not Available |
-
 | [Drugagent: Multi-agent large language model-based reasoning for drug-target interaction prediction](https://aclanthology.org/2025.emnlp-industry.125.pdf) | Not Available |
-
 | [EH-Benchmark: Ophthalmic hallucination benchmark and agent-driven top-down traceable reasoning workflow](https://arxiv.org/abs/2507.22929) | [GitHub](https://github.com/ppxy1/EH-Benchmark/blob/main/README.md) |
-
 | [Ehr-mcp: Real-world evaluation of clinical information retrieval by large language models via model context protocol](https://arxiv.org/abs/2509.15957) | Not Available |
-
 | [Emerging cyber attack risks of medical ai agents](https://arxiv.org/abs/2504.03759) | Not Available |
-
 | [Enhancing diagnostic capability with multi-agents conversational large language models](https://www.nature.com/articles/s41746-025-01550-0.pdf) | [GitHub](https://github.com/geteff1/Multi-agent-conversation-for-disease-diagnosis) |
-
 | [Enhancing Medical Lung X-Ray Diagnosis Through Multi-Agent Vision-Language Model Collaboration](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11182822) | Not Available |
-
 | [Ensuring Safety and Trust: Analyzing the Risks of Large Language Models in Medicine](https://arxiv.org/abs/2411.14487) | Not Available |
-
 | [Evaluating the accuracy of a state-of-the-art large language model for prediction of adNot Availableions from the emergency room](https://doi.org/10.1093/jamia/ocae103) | Not Available |
-
 | [Evaluating transparency in AI/ML model characteristics for FDA-reviewed medical devices](https://www.nature.com/articles/s41746-025-02052-9) | Not Available |
-
 | [Explainable AI for medical data: Current methods, limitations, and future directions](https://doi.org/10.1145/3637487) | Not Available |
-
 | [Eyecaregpt: Boosting comprehensive ophthalmology understanding with tailored dataset, benchmark and model](https://arxiv.org/abs/2504.13650) | [GitHub](https://github.com/DCDmllm/EyecareGPT) |
-
 | [Factorio learning environment](https://arxiv.org/abs/2503.09617) | [GitHub](https://github.com/JackHopkins/factorio-learning-environment) |
-
 | [Feat: A multi-agent forensic ai system with domain-adapted large language model for automated cause-of-death analysis](https://arxiv.org/abs/2508.07950) | [GitHub](https://github.com/shenxiaochenn/FEAT) |
-
 | [Fine-tuning vision language models with graph-based knowledge for explainable medical image analysis](https://arxiv.org/abs/2503.09808) | Not Available |
-
 | [FRAME: Feedback-Refined Agent Methodology for Enhancing Medical Research Insights](https://arxiv.org/abs/2505.04649) | [GitHub](https://github.com/d0ng231/GFT) |
-
 | [From human memory to ai memory: A survey on memory mechanisms in the era of llms](https://arxiv.org/abs/2504.15965) | Not Available |
-
 | [G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://arxiv.org/abs/2506.07398) | [GitHub](https://github.com/bingreeky/GMemory) |
-
 | [GEMA-Score: Granular Explainable Multi-Agent Score for Radiology Report Evaluation](https://arxiv.org/abs/2503.05347) | [GitHub](https://github.com/Zhenxuan-Zhang/GEMA_score) |
-
 | [Geometry-preserving encoder/decoder in latent generative models](https://arxiv.org/abs/2501.09876) | [GitHub](https://github.com/wonjunee/GPE_codes) |
-
 | [GMAT: Grounded Multi-agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification](https://arxiv.org/abs/2508.01293) | Not Available |
-
 | [Haibu Mathematical-Medical Intelligent Agent: Enhancing Large Language Model Reliability in Medical Tasks via Verifiable Reasoning Chains](https://arxiv.org/abs/2510.07748) | Not Available |
-
 | [Demo:Healthcare Agent Orchestrator (HAO) for Patient Summarization in Molecular Tumor Boards](https://arxiv.org/pdf/2509.06602) | Not Available |
-
 | [Healthcare Agent: Eliciting the Power of Large Language Models for Medical Consultation](https://www.nature.com/articles/s44387-025-00021-x) | Not Available |
-
 | [Image Segmentation Using Only" Better or Worse" Expert Feedback](https://books.google.com/books?hl=zh-CN&lr=&id=fFKTEQAAQBAJ&oi=fnd&pg=PA3&dq=Image+segmentation+using+only%22+better+or+worse%22+expert+feedback.&ots=_35VwDIQlM&sig=c3q5YB6o34MQzPsEFMw8wVGlmb4) | Not Available |
-
 | [Improving Interactive Diagnostic Ability of a Large Language Model Agent Through Clinical Experience Learning](https://arxiv.org/abs/2503.16463) | [GitHub](https://github.com/DanielSun94/ppme) |
-
 | [In prospect and retrospect: Reflective memory management for long-term personalized dialogue agents](https://arxiv.org/abs/2503.08026) | Not Available |
-
 | [In-Basket Message Volume in Primary Care: A Cross-sectional Analysis by Gender and Specialty](https://pubmed.ncbi.nlm.nih.gov/39843670/) | Not Available |
-
 | [Internbootcamp technical report: Boosting llm reasoning with verifiable task scaling](https://arxiv.org/abs/2508.08636) | [GitHub](https://github.com/InternLM/InternBootcamp) |
-
 | [KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](https://arxiv.org/abs/2507.02773) | [GitHub](https://github.com/constantjxyz/KERAP) |
-
 | [Large language models in real-world clinical workflows: a systematic review of applications and implementation](https://pubmed.ncbi.nlm.nih.gov/41098649/) | Not Available |
-
 | [Learning to be a doctor: Searching for effective medical agent architectures](https://arxiv.org/abs/2504.11301) | Not Available |
-
 | [Lessons Learned from Evaluation of LLM based Multi-agents in Safer Therapy Recommendation](https://arxiv.org/pdf/2507.10911) | [GitHub](https://github.com/aiformed/MAS_for_Therapy_Recom) |
-
 | [LINS: A general medical Q\&A framework for enhancing the quality and credibility of LLM-generated responses](https://www.nature.com/articles/s41467-025-64142-2) | [GitHub](https://github.com/WangSheng21s/LINS) |
-
 | [Llms can simulate standardized patients via agent coevolution](https://arxiv.org/abs/2412.11716) | [GitHub](https://github.com/ZJUMAI/EvoPatient) |
-
 | [M3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging](https://arxiv.org/pdf/2502.20301) | [GitHub](https://github.com/MAGIC-AI4Med/M3Builder) |
-
 | [M+: Extending MemoryLLM with Scalable Long-Term Memory](https://arxiv.org/abs/2502.00592) | [GitHub](https://github.com/wangyu-ustc/MemoryLLM) |
-
 | [Magnetic Milli-Spinner for Robotic Endovascular Surgery](https://arxiv.org/abs/2410.21112) | Not Available |
-
 | [MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration](https://arxiv.org/pdf/2506.19835) | [GitHub](https://github.com/yczhou001/MAM) |
-
 | [Mdteamgpt: A self-evolving llm-based multi-agent framework for multi-disciplinary team medical consultation](https://arxiv.org/abs/2503.13856) | [GitHub](https://github.com/KaiChenNJ/MDTeamGPT) |
-
 | [Measurement to Meaning: A Validity-Centered Framework for AI Evaluation](https://arxiv.org/pdf/2505.10573) | Not Available |
-
 | [Med-TAMARA: Trust-Aware Multi-Agent Risk Assessment in Medical AI Dialogue](https://ieeexplore.ieee.org/document/11153120) | Not Available |
-
 | [Med-VRAgent: A Framework for Medical Visual Reasoning-Enhanced Agents](https://arxiv.org/abs/2510.18424) | [GitHub](https://github.com/KwongFuk/Med-VRAgent) |
-
 | [MedAgent-Pro: Towards Evidence-Based Multi-Modal Medical Diagnosis via Reasoning Agentic Workflow](https://arxiv.org/abs/2503.18968) | Not Available |
-
 | [MedAgentAudit: Diagnosing and Quantifying Collaborative Failure Modes in Medical Multi-Agent Systems](https://arxiv.org/abs/2510.10185) | [GitHub](https://github.com/yhzhu99/MedAgentAudit) |
-
 | [MedAgentBench: Dataset for Benchmarking LLMs as Agents](https://arxiv.org/abs/2501.14654) | [GitHub](https://github.com/stanfordmlgroup/MedAgentBench) |
-
-| [MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks](https://arxiv.org/abs/2505.12371) | [GitHub](https://github.com/yhzhu99/MedAgentBoard) |
-
+| [MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks](https://arxiv.org/abs/2505.12371) | [GitHub](https://github.com/yhzhu99/MedAgentBoard) 
 | [MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning](https://arxiv.org/abs/2503.07459) | [GitHub](https://github.com/gersteinlab/medagents-benchmark) |
-
 | [MedAgentSim: Self-evolving Multi-agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678) | [GitHub](https://github.com/MAXNORM8650/MedAgentSim) |
-
 | [MedBrowseComp: Benchmarking Medical Deep Research and Computer Use](https://arxiv.org/abs/2505.14963) | [GitHub](https://github.com/shan23chen/MedBrowseComp) |
-
 | [Medchat: A multi-agent framework for multimodal diagnosis with large language models](https://arxiv.org/abs/2506.07400) | [GitHub](https://github.com/Purdue-M2/MedChat) |
-
 | [MedCoAct: Confidence-Aware Multi-Agent Collaboration for Complete Clinical Decision](https://arxiv.org/abs/2510.10461) | Not Available |
-
 | [Meddxagent: A unified modular agent framework for explainable automatic differential diagnosis](https://arxiv.org/abs/2502.19175) | [GitHub](https://github.com/nec-research/meddxagent/blob/main/README.md) |
-
 | [MedFact: A Large-scale Chinese Dataset for Evidence-based Medical Fact-Checking of LLM Responses](https://arxiv.org/abs/2509.17436) | [GitHub](https://github.com/AshleyChenNLP/MedFact) |
-
 | MedGuard: Defense against Adversarial Attacks in Medical LLMs (Not Available) | Not Available |
-
 | [Medhallu: A comprehensive benchmark for detecting medical hallucinations in large language models](https://arxiv.org/abs/2502.14302) | [GitHub](https://github.com/MedHallu/MedHallu) |
-
 | [Mediator-guided multi-agent collaboration among open-source models for medical decision-making](https://arxiv.org/abs/2508.05996) | Not Available |
-
 | [Medical AI Consensus: A Multi-Agent Framework for Radiology Report Generation and Evaluation](https://arxiv.org/abs/2509.17353) | Not Available |
-
 | [Medical hallucinations in foundation models and their impact on healthcare](https://arxiv.org/abs/2503.05777) | [GitHub](https://medical-hallucination.github.io/) |
-
 | [Position: Medical large language model benchmarks should prioritize construct validity](https://openreview.net/pdf?id=YuMEUNNpeb) | Not Available |
-
 | [MedicalOS: An {LLM} Agent based Operating System for Digital Healthcare](https://arxiv.org/pdf/2509.11507) | Not Available |
-
 | [MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph](https://arxiv.org/abs/2508.12393) | [GitHub](https://github.com/BladeDancer957/MedKGent) |
-
 | [MedKGEval: A Knowledge Graph-Based Multi-Turn Evaluation Framework for Open-Ended Patient Interactions with Clinical LLMs](https://arxiv.org/pdf/2510.12224) | Not Available |
-
 | [MedLA: A Logic-Driven Multi-Agent Framework for Complex Medical Reasoning with Large Language Models](https://arxiv.org/abs/2509.23725) | [GitHub](https://github.com/alexander2618/MedLA) |
-
 | [Medmmv: A controllable multimodal multi-agent framework for reliable and verifiable clinical reasoning](https://arxiv.org/abs/2509.24314) | Not Available |
-
 | [MedOrch: Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility](https://arxiv.org/abs/2506.00235) | Not Available |
-
 | [MedPAO: A Protocol-Driven Agent for Structuring Medical Reports](https://arxiv.org/abs/2510.04623) | [GitHub](https://github.com/MiRL-IITM/medpao-agent) |
-
 | [Medrax: Medical reasoning agent for chest x-ray](https://arxiv.org/abs/2502.02673) | [GitHub](https://github.com/bowang-lab/MedRAX) |
-
 | [MedRepBench: A Comprehensive Benchmark for Medical Report Interpretation](https://arxiv.org/abs/2508.16674) | Not Available |
-
 | [Medresearcher-r1: Expert-level medical deep researcher via a knowledge-informed trajectory synthesis framework](https://arxiv.org/abs/2508.14880) | [GitHub](https://github.com/AQ-MedAI/MedResearcher-R1) |
-
 | [MedTrust-RAG: Evidence Verification and Trust Alignment for Biomedical Question Answering](https://arxiv.org/abs/2510.14400) | Not Available |
-
 | [MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding](https://arxiv.org/pdf/2501.18362) | [GitHub](https://github.com/TsinghuaC3I/MedXpertQA) |
-
 | [MEGA-RAG: a retrieval-augmented generation framework with multi-evidence guided answer refinement for mitigating hallucinations of LLMs in public health](https://pubmed.ncbi.nlm.nih.gov/41132171/) | Not Available |
-
 | [Mem-α: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911) | [GitHub](https://github.com/wangyu-ustc/Mem-alpha) |
-
 | [Mem0: Building production-ready ai agents with scalable long-term memory](https://www.semanticscholar.org/reader/1d9c21a0fdb1cc16a32c5d490ebaf98436a23382) | [GitHub](https://mem0.ai/research) |
-
 | [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents](https://arxiv.org/pdf/2506.15841) | [GitHub](https://github.com/MIT-MI/MEM1) |
-
 | [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259) | [GitHub](https://memagent-sialab.github.io/) |
-
 | [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704) | [GitHub](https://github.com/KANABOON1/MemGen/blob/master/README.md) |
-
 | [Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks](https://arxiv.org/pdf/2510.12635) | Not Available |
-
 | [Memory-r1: Enhancing large language model agents to manage and utilize memories via reinforcement learning](https://arxiv.org/abs/2508.19828) | Not Available |
-
 | [MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](https://arxiv.org/abs/2506.00555) | Not Available |
-
 | [MoMA: A Mixture-of-Multimodal-Agents Architecture for Enhancing Clinical Prediction Modelling](https://arxiv.org/abs/2508.05492) | Not Available |
-
 | [MRGAgents: A Multi-Agent Framework for Improved Medical Report Generation with Med-LVLMs](https://arxiv.org/abs/2505.18530) | Not Available |
-
 | [Multi agent based medical assistant for edge devices](https://arxiv.org/pdf/2503.05397) | [GitHub](https://github.com/sakharamg/Multi-Agent-Health-Assistant/) |
-
 | [Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation](https://arxiv.org/pdf/2507.21028) | Not Available |
-
 | [Multi-OphthaLingua: A Multilingual Benchmark for Assessing and Debiasing LLM Ophthalmological QA in {LMIC}s](https://arxiv.org/abs/2412.14304) | Not Available |
-
 | [Multimodal Models in Healthcare: Methods, Challenges, and Future Directions for Enhanced Clinical Decision Support](https://doi.org/10.3390/info16110971) | Not Available |
-
 | [Nocode-bench: A benchmark for evaluating natural language-driven feature addition](https://arxiv.org/pdf/2507.18130) | [GitHub](https://github.com/NoCode-bench/NoCode-bench) |
-
 | [NurseLLM: The First Specialized Language Model for Nursing](https://arxiv.org/abs/2510.07173) | Not Available |
-
 | [OAAgent: Multimodal LLM Agent for Predicting Knee Osteoarthritis Progression](https://doi.org/10.1145/3721201.3721397) | Not Available |
-
 | [OpenLens AI: Fully Autonomous Research Agent for Health Infomatics](https://arxiv.org/pdf/2509.14778) | [GitHub](https://github.com/jarrycyx/openlens-ai) |
-
 | [PaperBench: Evaluating AI's Ability to Replicate AI Research](https://arxiv.org/pdf/2504.01848) | [GitHub](https://lamalab-org.github.io/toolminutes/papers/paper_bench_2025.html) |
-
 | [PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning](https://arxiv.org/abs/2508.10501) | [GitHub](https://github.com/ys-feng/PASS) |
-
 | [Pathfinder: A multi-modal multi-agent system for medical diagnostic decision-making applied to histopathology](https://arxiv.org/abs/2502.08916) | [GitHub](https://pathfinder-dx.github.io/) |
-
 | [Patient-Zero: A Unified Framework for Real-Record-Free Patient Agent Generation](https://arxiv.org/abs/2509.11078) | Not Available |
-
 | [Proactive Reasoning-with-Retrieval Framework for Medical Multimodal Large Language Models](https://arxiv.org/abs/2510.18303) | [GitHub](https://github.com/xmed-lab/Med-RwR) |
-
 | [Program Synthesis Dialog Agents for Interactive Decision-Making](https://arxiv.org/pdf/2502.19610) | Not Available |
-
 | [Proof-of-TBI--Fine-Tuned Vision Language Model Consortium and OpenAI-o3 Reasoning LLM-Based Medical Diagnosis Support System for Mild Traumatic Brain Injury (TBI) Prediction](https://arxiv.org/abs/2504.18671) | Not Available |
-
 | [Rapidly benchmarking large language models for diagnosing comorbid patients: comparative study leveraging the LLM-as-a-judge method](https://pubmed.ncbi.nlm.nih.gov/40880236/) | Not Available |
-
 | [Real-World Evaluation of Large Language Models in Healthcare (RWE-LLM): A New Realm of AI Safety \& Validation](https://arxiv.org/abs/2503.04748) | Not Available |
-
 | [Red-teaming llm multi-agent systems via communication attacks](https://aclanthology.org/2025.findings-acl.349.pdf) | Not Available |
-
 | [Reducing Hallucinations and Trade-Offs in Responses in Generative AI Chatbots for Cancer Information: Development and Evaluation Study](https://pubmed.ncbi.nlm.nih.gov/40934488/) | Not Available |
-
 | [ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents](https://arxiv.org/pdf/2410.17657) | [GitHub](https://github.com/BlueZeros/ReflecTool) |
-
 | [Resilient Multi-Agent Negotiation for Medical Supply Chains: Integrating LLMs and Blockchain for Transparent Coordination](https://arxiv.org/pdf/2507.17134) | Not Available |
-
 | [ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313) | [GitHub](https://github.com/Alibaba-NLP/DeepResearch) |
-
 | [RxLens: Multi-Agent LLM-powered Scan and Order for Pharmacy](https://aclanthology.org/2025.naacl-industry.63.pdf) | Not Available |
-
 | [Scaling Long-Horizon LLM Agent via Context-Folding](https://arxiv.org/pdf/2510.11967) | [GitHub](https://github.com/sunnweiwei/FoldAgent) |
-
 | [SCOPE: Speech-Guided COllaborative PErception Framework for Surgical Scene Segmentation](https://arxiv.org/abs/2509.10748) | Not Available |
-
 | [Self-Assessment of Content, Pedagogy, and Technology Knowledge among Higher Education Academics in Bahrain](https://researchportal.port.ac.uk/en/studentTheses/self-assessment-of-content-pedagogy-and-technology-knowledge-amon/) | Not Available |
-
 | [Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making](https://arxiv.org/abs/2505.21503) | Not Available |
-
 | [SmartState: An Automated Research Protocol Adherence System](https://arxiv.org/abs/2305.04411) | [GitHub](https://github.com/Kentucky-Open-Science/SmartState-public) |
-
 | [SOLVE-Med: Specialized Orchestration for Leading Vertical Experts across Medical Specialties](https://arxiv.org/pdf/2511.03542) | [GitHub](https://github.com/PRAISELab-PicusLab/SOLVE-Med) |
-
 | [Standard Applicability Judgment and Cross-jurisdictional Reasoning: A RAG-based Framework for Medical Device Compliance](https://arxiv.org/abs/2506.18511) | Not Available |
-
 | [Surgraw: Multi-agent workflow with chain-of-thought reasoning for surgical intelligence](https://arxiv.org/abs/2503.10265) | [GitHub](https://github.com/jinlab-imvr/SurgRAW) |
-
 | [Survey and improvement strategies for gene prioritization with large language models](https://arxiv.org/abs/2501.18794) | Not Available |
-
 | [Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA](https://arxiv.org/abs/2504.21252) | [GitHub](https://github.com/LLM-VLM-GSL/Discuss-RAG) |
-
 | [TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems](https://arxiv.org/pdf/2511.05269) | Not Available |
-
 | [The evaluation illusion of large language models in medicine](https://www.nature.com/articles/s41746-025-01963-x) | Not Available |
-
 | [Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare](https://arxiv.org/abs/2506.12482) | [GitHub](https://github.com/tiered-agentic-oversight/tao) |
-
 | [Tool learning with large language models: A survey](https://arxiv.org/abs/2405.17935) | [GitHub](https://github.com/quchangle1/LLM-Tool-Survey) |
-
 | [Towards conversational diagnostic artificial intelligence](https://www.nature.com/articles/s41586-025-08866-7) | Not Available |
-
 | [Towards interpretable radiology report generation via concept bottlenecks using a multi-agentic rag](https://arxiv.org/html/2412.16086v1) | [GitHub](https://github.com/tifat58/IRR-with-CBM-RAG) |
-
 | [Towards safe ai clinicians: A comprehensive study on large language model jailbreaking in healthcare](https://arxiv.org/abs/2501.18632) | Not Available |
-
 | [Transforming healthcare delivery with conversational AI platforms](https://www.nature.com/articles/s41746-025-01968-6) | Not Available |
-
 | [Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data](https://arxiv.org/abs/2501.02727) | Not Available |
-
 | [Tree-of-Reasoning: Towards Complex Medical Diagnosis via Multi-Agent Reasoning with Evidence Tree](https://arxiv.org/abs/2508.03038) | [GitHub](https://github.com/tsukiiiiiiiii/TOR) |
-
 | [Trustworthy Reasoning: Evaluating and Enhancing Factual Accuracy in LLM Intermediate Thought Processes](https://arxiv.org/pdf/2507.22940) | Not Available |
-
 | [TxAgent: An AI agent for therapeutic reasoning across a universe of tools](https://arxiv.org/abs/2503.10970) | [GitHub](https://zitniklab.hms.harvard.edu/TxAgent/) |
-
 | [Using large language models for enhanced fraud analysis and detection in blockchain based health insurance claims](https://www.nature.com/articles/s41598-025-15676-4) | [GitHub](https://github.com/rubak3/InsuranceFraudDetection) |
-
 | [Vision-language model for report generation and outcome prediction in CT pulmonary angiogram](https://www.nature.com/articles/s41746-025-01807-8) | [GitHub](https://github.com/zzs95/CTPA-Agent) |
-
 | [Visual-Conversational Interface for Evidence-Based Explanation of Diabetes Risk Prediction](https://arxiv.org/pdf/2507.02920) | [GitHub](https://github.com/resamimi/diabetes-dashboard/) |
-
 | [When Avatars Have Personality: Effects on Engagement and Communication in Immersive Medical Training](https://arxiv.org/abs/2509.14132) | Not Available |
-
 | [World Model for AI Autonomous Navigation in Mechanical Thrombectomy](https://arxiv.org/abs/2509.25518) | [GitHub](https://github.com/lkarstensen/stEVE) |
-
 | [Zep: a temporal knowledge graph architecture for agent memory](https://arxiv.org/pdf/2501.13956) | Not Available |
-
 | [Zero-Shot Large Language Model Agents for Fully Automated Radiotherapy Treatment Planning](https://arxiv.org/pdf/2510.11754) | Not Available |
-
 | [AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator](https://arxiv.org/abs/2402.09742) | [GitHub](https://github.com/LibertFan/AI_Hospital) |
-
 | [Bias-Aware Agent: Enhancing Fairness in AI-Driven Knowledge Retrieval](https://arxiv.org/pdf/2503.21237) | [GitHub](https://github.com/SinghKaranbir/BiasAwareAgent) |
-
 | [ EMR-AGENT: AUTOMATING COHORT AND FEATURE EXTRACTION FROM EMR DATABASES](https://arxiv.org/pdf/2510.00549) | [GitHub](https://github.com/AITRICS/EMR-AGENT/tree/main) |
 
 ## Year-2024
@@ -670,6 +470,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
