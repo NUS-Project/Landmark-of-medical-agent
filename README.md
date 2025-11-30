@@ -6,13 +6,10 @@ This is the official repository for the survey paper: **The Landscape of Medical
 
 [**HuggingFace – https://huggingface.co/papers/2506.04405**](https://huggingface.co/papers/2506.04405) -->
 
-<!-- ## Abstract
-
-Medical Agents are an emerging class of agentic systems deployed in clinical settings that operate over multimodal, longitudinal data, maintain internal state, plan and adapt sequences of actions, and interact with clinical information systems under governance constraints. They extend traditional medical artificial intelligence (MedAI) beyond narrow diagnostic and predictive models toward workflow-centric architectures that address persistent challenges such as administrative burden, fragmented workflows, and workforce strain. In this paper, we (i) propose a functional definition and three-level developmental roadmap for Medical Agents, linking architectural capabilities (planning, memory, tool use, long-horizon control) to degrees of workflow integration and autonomy; (ii) map representative deployments across hospital departments and tasks, including domain-specific agents and multi-agent hospital simulations; and (iii) synthesise cross-cutting challenges in safety, robustness, fairness, evaluation, and governance, outlining research directions for advancing capabilities under clinical constraints and achieving system-level impact. We argue that Medical Agents should be treated as emerging infrastructure for learning health systems, whose value will be measured less by benchmark accuracy than by reliable restructuring of clinical workflows. -->
 
 ## Keywords
 
-Medical Agents, Clinical Workflows, Safety
+Medical Agents, Clinical Workflows, Safety, Governance and Evaluation
 
 ## Date
 
@@ -22,16 +19,20 @@ November 30th, 2025
 
 [**GitHub - https://github.com/NUS-Project/Landmark-of-medical-agent**](https://github.com/NUS-Project/Landmark-of-medical-agent) 
 
-## Corresponding Authors
-<!-- 
-- Jeremy Yin - jeremyyin@robots.ox.ac.uk
-- Bailei Wang - bailei@pjlab.org.cn -->
+## Contact 
+If you have any questions or would like to engage with our community, feel free to scan the QR code below to join our WeChat group.
+
+<p align="center">
+  <img src="./qun.jpg" alt="" width="100%" />
+</p>
 
 ## Main Contacts
-<!-- 
-- Guibin Zhang - guibinz@u.nus.edu
-- Hejia Geng - genghejia0530@gmail.com
-- Xiaohang Yu - x.yu21@imperial.ac.uk -->
+
+- Xiaobin Hu - ben0xiaobin0hu1@nus.edu.sg
+
+<p align="center">
+  <img src="./landscape.png" alt="Overall Landscape" width="100%" />
+</p>
 
 ## 3 Multi-Agent Systems
 This section introduces the fundamental aspects of medical multi-agent systems.
@@ -158,7 +159,7 @@ Provide a visionary perspective on the future of medical agents in healthcare.
 
 ## Acknowledgments
 
-*Any acknowledgments related to funding, contributions, or affiliations can be mentioned here.*
+The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing Liu,Xiaozhong Ji,Tang Peng,Chengming Xu,Jiawei Liu,Xiaoxiao Yan,Xinlei Yu,Guibin Zhang,Xiaomin Yu,Yue Liao,Jiazhen Pan,Zhe Xu,Bailiang Jian,Kai Wu,Jiangning Zhang,Shanghua Gao,Zuxuan Wu,Yanwei Fu,Hongwei Bran Li,Menze Bjoern,Yu-Gang Jiang,Daniel Rueckert and Shuicheng Yan.
 
 ## Citation
 
