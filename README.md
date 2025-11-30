@@ -30,10 +30,6 @@ If you have any questions or would like to engage with our community, feel free 
 
 - Xiaobin Hu - ben0xiaobin0hu1@nus.edu.sg
 
-<p align="center">
-  <img src="./landscape.png" alt="Overall Landscape" width="100%" />
-</p>
-
 ## 3 Multi-Agent Systems
 This section introduces the fundamental aspects of medical multi-agent systems.
 
@@ -173,6 +169,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
