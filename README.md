@@ -179,7 +179,6 @@ If you have any questions or would like to engage with our community, feel free 
 | [MedTrust-RAG: Evidence Verification and Trust Alignment for Biomedical Question Answering](https://arxiv.org/abs/2510.14400) | Not Available |
 | [MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding](https://arxiv.org/pdf/2501.18362) | [GitHub](https://github.com/TsinghuaC3I/MedXpertQA) |
 | [MEGA-RAG: a retrieval-augmented generation framework with multi-evidence guided answer refinement for mitigating hallucinations of LLMs in public health](https://pubmed.ncbi.nlm.nih.gov/41132171/) | Not Available |
-| [Mem-α: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911) | [GitHub](https://github.com/wangyu-ustc/Mem-alpha) |
 | [Mem0: Building production-ready ai agents with scalable long-term memory](https://www.semanticscholar.org/reader/1d9c21a0fdb1cc16a32c5d490ebaf98436a23382) | [GitHub](https://mem0.ai/research) |
 | [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents](https://arxiv.org/pdf/2506.15841) | [GitHub](https://github.com/MIT-MI/MEM1) |
 | [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259) | [GitHub](https://memagent-sialab.github.io/) |
@@ -419,6 +418,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
