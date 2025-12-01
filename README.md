@@ -39,7 +39,6 @@ If you have any questions or would like to engage with our community, feel free 
   - [Year-2025](#Year-2025)
   - [Year-2024](#Year-2024)
   - [Year-2023](#Year-2023)
-  - [Year-2022](#Year-2022)
   - [earlier](#earlier)
 # Latest Papers
 ## Year-2025
@@ -368,60 +367,44 @@ If you have any questions or would like to engage with our community, feel free 
 | [The NCI Imaging Data Commons as a platform for reproducible research in computational pathology](https://arxiv.org/abs/2303.09354) | Not available |
 | [Towards Causality-Aware Inferring: A Sequential Discriminative Approach for Medical Diagnosis](https://arxiv.org/abs/2003.06534) | Not available |
 
-## Year-2022
-
-| Title | GitHub |
-| --- | --- |
-| "My Nose is Running." "Are You Also Coughing?": Building a Medical Diagnosis Agent with Interpretable Inquiry Logics (miss) | miss |
-| A Flexible Schema-Guided Dialogue Management Framework: From Friendly Peer to Virtual Standardized Cancer Patient (miss) | miss |
-| Building an {ASR} Error Robust Spoken Virtual Patient System in a Highly Class-Imbalanced Scenario Without Speech Data (miss) | miss |
-| Constitutional ai: Harmlessness from ai feedback (miss) | miss |
-| [MedDG: An Entity-Centric Medical Consultation Dataset for Entity-Aware Medical Dialogue Generation](2022.9) | miss |
-| MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning (miss) | miss |
-| Multi-agent searching system for medical information (miss) | miss |
-| React: Synergizing reasoning and acting in language models (miss) | miss |
-| Scalable Online Disease Diagnosis via Multi-Model-Fused Actor-Critic Reinforcement Learning (miss) | miss |
-| Scienceworld: Is your agent smarter than a 5th grader? (miss) | miss |
-| Webshop: Towards scalable real-world web interaction with grounded language agents (miss) | miss |
-| [{MedMCQA}: A Large-scale Multi-Subject Multi-Choice Dataset for Medical Domain Question Answering](2022.3) | miss |
-
 ## earlier
 
 | Title | GitHub |
 | --- | --- |
-| A grounded well-being conversational agent with multiple interaction modes: Preliminary results (miss) | miss |
-| Adaptable image quality assessment using meta-reinforcement learning of task amenability (miss) | miss |
-| An Edge Based Multi-Agent Model for Improving Hospital Bed Management (miss) | miss |
-| Benchmarking the spectrum of agent capabilities (miss) | miss |
-| Cross Modality 3D Navigation Using Reinforcement Learning and Neural Style Transfer (miss) | miss |
-| Extracting Training Data from Large Language Models (miss) | miss |
-| Human-AI collaboration in healthcare: A review and research agenda (miss) | miss |
-| [Levels of autonomy and safety assurance for AI-Based clinical decision systems](2021.8) | miss |
-| Measuring Massive Multitask Language Understanding (miss) | miss |
-| Alfworld: Aligning text and embodied environments for interactive learning (miss) | miss |
-| Autonomous systems and artificial intelligence in healthcare transformation to 5P medicine--ethical challenges (miss) | miss |
-| Boundary-aware supervoxel-level iteratively refined interactive 3d image segmentation with multi-agent reinforcement learning (miss) | miss |
-| MedDialog: A Large-scale Medical Dialogue Dataset (miss) | miss |
-| Medical visual question answering via conditional reasoning (miss) | miss |
-| PathVQA: 30000+ Questions for Medical Visual Question Answering (miss) | miss |
-| What Disease Does This Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams (miss) | miss |
-| Bertscore: Evaluating text generation with bert (miss) | miss |
-| PubMedQA: A Dataset for Biomedical Research Question Answering (miss) | miss |
-| The starcraft multi-agent challenge (miss) | miss |
-| A Dataset of Clinically Generated Visual Questions and Answers About Radiology Images (miss) | miss |
-| Modeling irregularly sampled clinical time series (miss) | miss |
-| Textworld: A learning environment for text-based games (miss) | miss |
-| The artificial intelligence clinician learns optimal treatment strategies for sepsis in intensive care (miss) | miss |
-| Medical robotics—Regulatory, ethical, and legal considerations for increasing levels of autonomy (miss) | miss |
-| Tethered to the EHR: primary care physician workload assessment using EHR event log data and time-motion observations (miss) | miss |
-| Allocation of physician time in ambulatory practice: a time and motion study in 4 specialties (miss) | miss |
-| Developing an educational medical game using AgilePASSI multi-agent methodology (miss) | miss |
-| Assessing electronic note quality using the physician documentation quality instrument (PDQI-9) (miss) | miss |
-| Privacy by design: The 7 foundational principles (miss) | miss |
-| Rouge: A package for automatic evaluation of summaries (miss) | miss |
-| Upper processing stages of the perception--action cycle (miss) | miss |
-| OpenAI o1: A Reasoning-Capable Large Language Model (miss) | miss |
-
+| ["My Nose is Running." "Are You Also Coughing?": Building a Medical Diagnosis Agent with Interpretable Inquiry Logics](https://arxiv.org/abs/2204.13953) | [GitHub](https://github.com/lwgkzl/BR-Agent) |
+| [A Flexible Schema-Guided Dialogue Management Framework: From Friendly Peer to Virtual Standardized Cancer Patient](https://arxiv.org/abs/2207.07276) | [GitHub](https://github.com/bkane2/eta-py) |
+| [Building an {ASR} Error Robust Spoken Virtual Patient System in a Highly Class-Imbalanced Scenario Without Speech Data](https://arxiv.org/abs/2204.05183) | Not available |
+| [Constitutional ai: Harmlessness from ai feedback](https://arxiv.org/abs/2212.08073) | [GitHub](https://github.com/anthropics/ConstitutionalHarmlessnessPaper) |
+| [MedDG: An Entity-Centric Medical Consultation Dataset for Entity-Aware Medical Dialogue Generation](https://arxiv.org/abs/2010.07497) | [GitHub](https://github.com/lwgkzl/MedDG) |
+| [MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning](https://arxiv.org/abs/2205.00445) | Not available |
+| [Multi-agent searching system for medical information](https://arxiv.org/abs/2203.12465) | Not available |
+| [React: Synergizing reasoning and acting in language models](https://arxiv.org/abs/2210.03629) | [GitHub](https://github.com/ysymyth/ReAct) |
+| [Scalable Online Disease Diagnosis via Multi-Model-Fused Actor-Critic Reinforcement Learning](https://arxiv.org/abs/2206.03659) | Not available |
+| [MedMCQA: A Large-scale Multi-Subject Multi-Choice Dataset for Medical Domain Question Answering](https://arxiv.org/abs/2203.14371) | [GitHub](https://github.com/medmcqa/medmcqa) |
+| [A grounded well-being conversational agent with multiple interaction modes: Preliminary results](https://arxiv.org/abs/2111.14083) | Not available |
+| [Adaptable image quality assessment using meta-reinforcement learning of task amenability](https://arxiv.org/abs/2108.04359) | [GitHub](https://github.com/s-sd/task-amenability) |
+| [An Edge Based Multi-Agent Model for Improving Hospital Bed Management](https://ieeexplore.ieee.org/document/9678487) | Not available |
+| [Cross Modality 3D Navigation Using Reinforcement Learning and Neural Style Transfer](https://arxiv.org/abs/2111.03485) | Not available |
+| [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805) | [GitHub](https://github.com/ftramer/LM_Memorization) |
+| [Human-AI collaboration in healthcare: A review and research agenda](https://scholarspace.manoa.hawaii.edu/items/48162f4c-8c99-47dc-8fb5-fe74e9cbb51d) | Not available |
+| [Levels of autonomy and safety assurance for AI-Based clinical decision systems](https://link.springer.com/chapter/10.1007/978-3-030-83906-2_24) | Not available |
+| [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300) | [GitHub](https://github.com/hendrycks/test) |
+| [Autonomous systems and artificial intelligence in healthcare transformation to 5P medicine--ethical challenges](https://pubmed.ncbi.nlm.nih.gov/32570549/) | Not available |
+| [Boundary-aware supervoxel-level iteratively refined interactive 3d image segmentation with multi-agent reinforcement learning](https://arxiv.org/abs/2303.10692) | Not available |
+| [MedDialog: A Large-scale Medical Dialogue Dataset](https://arxiv.org/abs/2004.03329) | Not available |
+| [Medical visual question answering via conditional reasoning](https://ieeexplore.ieee.org/document/9999450/) | [GitHub](https://github.com/Awenbocc/med-vqa) |
+| [PathVQA: 30000+ Questions for Medical Visual Question Answering](https://arxiv.org/abs/2003.10286) | [GitHub](https://github.com/UCSD-AI4H/PathVQA) |
+| [Bertscore: Evaluating text generation with bert](https://arxiv.org/abs/1904.09675) | [GitHub](https://github.com/Tiiiger/bert_score) |
+| [PubMedQA: A Dataset for Biomedical Research Question Answering](https://arxiv.org/abs/1909.06146) | [GitHub](https://github.com/pubmedqa/pubmedqa) |
+| [A Dataset of Clinically Generated Visual Questions and Answers About Radiology Images](https://www.nature.com/articles/sdata2018251) | Not available |
+| [Modeling irregularly sampled clinical time series](https://arxiv.org/abs/1812.00531) | [GitHub](https://github.com/mlds-lab/interp-net) |
+| [The artificial intelligence clinician learns optimal treatment strategies for sepsis in intensive care](https://www.nature.com/articles/s41591-018-0213-5) | [GitHub](https://github.com/uribyul/py_ai_clinician) |
+| [Medical robotics—Regulatory, ethical, and legal considerations for increasing levels of autonomy](https://www.science.org/doi/10.1126/scirobotics.aam8638) | Not available |
+| [Tethered to the EHR: primary care physician workload assessment using EHR event log data and time-motion observations](https://pubmed.ncbi.nlm.nih.gov/28893811/) | Not available |
+| [Allocation of physician time in ambulatory practice: a time and motion study in 4 specialties](https://pubmed.ncbi.nlm.nih.gov/27595430/) | Not available |
+| [Assessing electronic note quality using the physician documentation quality instrument (PDQI-9)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3347480/) | Not available |
+| [Privacy by design: The 7 foundational principles](https://student.cs.uwaterloo.ca/~cs492/papers/7foundationalprinciples_longer.pdf) | Not available |
+| [Upper processing stages of the perception--action cycle](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(04)00047-6) | Not available |
 
 ## Acknowledgments
 
@@ -439,6 +422,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
