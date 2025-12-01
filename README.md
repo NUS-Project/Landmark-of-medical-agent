@@ -389,7 +389,6 @@ If you have any questions or would like to engage with our community, feel free 
 | [MedDialog: A Large-scale Medical Dialogue Dataset](https://arxiv.org/abs/2004.03329) | Not available |
 | [Medical visual question answering via conditional reasoning](https://ieeexplore.ieee.org/document/9999450/) | [GitHub](https://github.com/Awenbocc/med-vqa) |
 | [PathVQA: 30000+ Questions for Medical Visual Question Answering](https://arxiv.org/abs/2003.10286) | [GitHub](https://github.com/UCSD-AI4H/PathVQA) |
-| [Bertscore: Evaluating text generation with bert](https://arxiv.org/abs/1904.09675) | [GitHub](https://github.com/Tiiiger/bert_score) |
 | [PubMedQA: A Dataset for Biomedical Research Question Answering](https://arxiv.org/abs/1909.06146) | [GitHub](https://github.com/pubmedqa/pubmedqa) |
 | [A Dataset of Clinically Generated Visual Questions and Answers About Radiology Images](https://www.nature.com/articles/sdata2018251) | Not available |
 | [Modeling irregularly sampled clinical time series](https://arxiv.org/abs/1812.00531) | [GitHub](https://github.com/mlds-lab/interp-net) |
@@ -417,6 +416,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
