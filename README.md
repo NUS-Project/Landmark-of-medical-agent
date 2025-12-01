@@ -252,8 +252,6 @@ If you have any questions or would like to engage with our community, feel free 
 
 | Title | GitHub |
 | --- | --- |
-| Title | GitHub |
-| --- | --- |
 | [A demonstration of adaptive collaboration of large language models for medical decision-making](https://arxiv.org/abs/2411.00248) | [GitHub](https://mdagents2024.github.io/) |
 | [A survey on large language model based autonomous agents](https://link.springer.com/content/pdf/10.1007/s11704-024-40231-1.pdf) | Not Available |
 | [Achieving health equity through conversational AI: A roadmap for design and implementation of inclusive chatbots in healthcare](https://pubmed.ncbi.nlm.nih.gov/38696359/) | Not Available |
@@ -448,6 +446,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
