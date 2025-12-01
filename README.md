@@ -33,7 +33,7 @@ If you have any questions or would like to engage with our community, feel free 
 
 - Xiaobin Hu - ben0xiaobin0hu1@nus.edu.sg
 
-#### Table of Contents
+## Table of Contents
 
 - [Latest Papers](#latest-papers)
   - [Year-2025](#Year-2025)
@@ -42,9 +42,6 @@ If you have any questions or would like to engage with our community, feel free 
   - [Year-2022](#Year-2022)
   - [earlier](#earlier)
 # Latest Papers
-
-# References by Year
-
 ## Year-2025
 
 | Title | GitHub |
@@ -473,6 +470,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
