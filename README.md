@@ -120,7 +120,6 @@ If you have any questions or would like to engage with our community, feel free 
 | [Evaluating transparency in AI/ML model characteristics for FDA-reviewed medical devices](https://www.nature.com/articles/s41746-025-02052-9) | Not Available |
 | [Explainable AI for medical data: Current methods, limitations, and future directions](https://doi.org/10.1145/3637487) | Not Available |
 | [Eyecaregpt: Boosting comprehensive ophthalmology understanding with tailored dataset, benchmark and model](https://arxiv.org/abs/2504.13650) | [GitHub](https://github.com/DCDmllm/EyecareGPT) |
-| [Factorio learning environment](https://arxiv.org/abs/2503.09617) | [GitHub](https://github.com/JackHopkins/factorio-learning-environment) |
 | [Feat: A multi-agent forensic ai system with domain-adapted large language model for automated cause-of-death analysis](https://arxiv.org/abs/2508.07950) | [GitHub](https://github.com/shenxiaochenn/FEAT) |
 | [Fine-tuning vision language models with graph-based knowledge for explainable medical image analysis](https://arxiv.org/abs/2503.09808) | Not Available |
 | [FRAME: Feedback-Refined Agent Methodology for Enhancing Medical Research Insights](https://arxiv.org/abs/2505.04649) | [GitHub](https://github.com/d0ng231/GFT) |
@@ -421,6 +420,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
