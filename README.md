@@ -162,7 +162,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [MedCoAct: Confidence-Aware Multi-Agent Collaboration for Complete Clinical Decision](https://arxiv.org/abs/2510.10461) | Not Available |
 | [Meddxagent: A unified modular agent framework for explainable automatic differential diagnosis](https://arxiv.org/abs/2502.19175) | [GitHub](https://github.com/nec-research/meddxagent/blob/main/README.md) |
 | [MedFact: A Large-scale Chinese Dataset for Evidence-based Medical Fact-Checking of LLM Responses](https://arxiv.org/abs/2509.17436) | [GitHub](https://github.com/AshleyChenNLP/MedFact) |
-| MedGuard: Defense against Adversarial Attacks in Medical LLMs (miss) | Not Available |
+| [Ensuring Safety and Trust: Analyzing the Risks of Large Language Models in Medicine]([miss](https://arxiv.org/abs/2411.14487)) | [GitHub](https://medguard-llm.github.io/) |
 | [Medhallu: A comprehensive benchmark for detecting medical hallucinations in large language models](https://arxiv.org/abs/2502.14302) | [GitHub](https://github.com/MedHallu/MedHallu) |
 | [Mediator-guided multi-agent collaboration among open-source models for medical decision-making](https://arxiv.org/abs/2508.05996) | Not Available |
 | [Medical AI Consensus: A Multi-Agent Framework for Radiology Report Generation and Evaluation](https://arxiv.org/abs/2509.17353) | Not Available |
@@ -422,6 +422,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
