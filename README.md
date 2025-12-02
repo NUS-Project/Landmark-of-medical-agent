@@ -16,7 +16,7 @@ This repository is a comprehensive and systematic research resource library for 
 We will try to keep this list updated. If you find any errors or any missed paper, please don't hesitate to open issues or pull requests.
 
 <p align="center">
-  <img src="./Workflow2Agentic.png" alt="Overall Landscape" width="90%" />
+  <img src="./Workflow2Agentic.png" alt="Overall Landscape" width="95%" />
 </p>
 
 ## Keywords
@@ -984,6 +984,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
