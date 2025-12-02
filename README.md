@@ -10,7 +10,7 @@ This is the official repository for the survey paper: **The Landscape of Medical
 </p>
 
 <p align="center">
-  <img src="./Workflow2Agentic.png" alt="Overall Landscape" width="90%" />
+  <img src="./Workflow2Agentic.png" alt="Overall Landscape" width="80%" />
 </p>
 
 ## Keywords
@@ -978,3 +978,4 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
