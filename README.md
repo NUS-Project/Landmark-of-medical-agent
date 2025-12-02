@@ -55,7 +55,6 @@ If you have any questions or would like to engage with our community, feel free 
 | [A Proposed LLM-Based Supported Treatment Framework for Intracerebral Hemorrhage](https://ieeexplore.ieee.org/document/10930045) | Not Available | intro, capability, application |
 | [A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889517) | Not Available | capability, application |
 | [A two-stage proactive dialogue generator for efficient clinical information collection using large language model](https://arxiv.org/pdf/2410.03770) | Not Available | task, application |
-
 | [Actions speak louder than words: Agent decisions reveal implicit biases in language models](https://arxiv.org/pdf/2501.17420) | Not Available | safety |
 | [Adagent: Llm agent for alzheimer’s disease analysis with collaborative coordinator](https://arxiv.org/pdf/2506.11150) | Not Available | capability, other |
 | [Agent-Based Uncertainty Awareness Improves Automated Radiology Report Labeling with an Open-Source Large Language Model](https://arxiv.org/abs/2502.01691) | Not Available | capability, other |
@@ -395,6 +394,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
