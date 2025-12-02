@@ -44,6 +44,10 @@ If you have any questions or would like to engage with our community, feel free 
 
 ## Table of Contents
 
+- [Latest Papers](#latest-papers)
+  - [Year 2025](#year-2025)
+  - [Year 2024](#year-2024)
+  - [Year 2023](#year-2023)
 - [Papers by Category](#Papers-by-Category)
   - [1. Intro](#1-Intro)
   - [2. Capability](#2-Capability)
