@@ -314,6 +314,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [Zodiac: A cardiologist-level llm framework for multi-agent diagnostics](https://arxiv.org/abs/2410.02026) | Not available | capability |
 | [OpenAI o1 System Card](https://arxiv.org/abs/2412.16720) | [GitHub](https://github.com/cognitivetech/llm-research-summaries/tree/main) | capability |
 | [FedAgentBench: Towards Automating Real-World Federated Medical Image Analysis with Server–Client LLM Agents](https://openreview.net/pdf?id=kCnokG3SfU) | Not available | evaluation |
+| [Evaluating large language models as agents in the clinic](https://www.semanticscholar.org/paper/Evaluating-large-language-models-as-agents-in-the-Mehandru-Miao/1700ce7976bb88e90796c96c344331282ecf9208) | Not available | evaluation |
 
 ## Year-2023
 
@@ -398,3 +399,4 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
