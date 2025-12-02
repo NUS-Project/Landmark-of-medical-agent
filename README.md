@@ -40,6 +40,12 @@ If you have any questions or would like to engage with our community, feel free 
   - [Year-2024](#Year-2024)
   - [Year-2023](#Year-2023)
   - [Earlier](#Earlier)
+- [Papers by Category](#Papers by Category)
+  - [Intro](#Intro)
+  - [Intro](#Intro)
+  - [Intro](#Intro)
+  - [Intro](#Intro)
+  - [Intro](#Intro)
 # Latest Papers
 ## Year-2025
 
@@ -383,6 +389,8 @@ If you have any questions or would like to engage with our community, feel free 
 | [Upper processing stages of the perception--action cycle](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(04)00047-6) | Not available | intro |
 | [What Disease Does This Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams](https://arxiv.org/abs/2009.13081) | [GitHub](https://github.com/jind11/MedQA) | evaluation |
 
+# Papers by Category
+
 ## Acknowledgments
 
 The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing Liu,Xiaozhong Ji,Tang Peng,Chengming Xu,Jiawei Liu,Xiaoxiao Yan,Xinlei Yu,Guibin Zhang,Xiaomin Yu,Yue Liao,Jiazhen Pan,Zhe Xu,Bailiang Jian,Kai Wu,Jiangning Zhang,Shanghua Gao,Zuxuan Wu,Yanwei Fu,Hongwei Bran Li,Menze Bjoern,Yu-Gang Jiang,Daniel Rueckert and Shuicheng Yan.
@@ -399,6 +407,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
