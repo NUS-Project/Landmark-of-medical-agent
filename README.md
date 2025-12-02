@@ -1,5 +1,7 @@
 # The Landscape of Medical Agents: A Survey
 
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
+[![Star on GitHub](https://img.shields.io/github/stars/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare?style=social)](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)
 This is the official repository for the survey paper: **The Landscape of Medical Agents: A Survey**.
 
 <!-- [**ArXiv – https://arxiv.org/abs/2506.04405**](https://arxiv.org/abs/2506.04405)
@@ -978,3 +980,4 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
