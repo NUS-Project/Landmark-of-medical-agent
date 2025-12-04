@@ -81,7 +81,7 @@ If you have any questions or would like to engage with our community, feel free 
     - [5.1 Benchmarks](#51-Benchmarks)
     - [5.2 Metrics](#52-Metrics)
     - [5.3 Challenge & Discussion](#53-Challenge--Discussion)
-  - [6. Communication & Collaboration Mechanisms](#5-Communication--Collaboration-Mechanisms)
+  - [6. Communication & Collaboration Mechanisms](#6-Communication--Collaboration-Mechanisms)
   - [7. Others](#7-Others)
 
 # Latest Papers
@@ -917,3 +917,4 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 } 
+
