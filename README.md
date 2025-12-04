@@ -435,6 +435,7 @@ If you have any questions or would like to engage with our community, feel free 
 ### **1.1 Planning**
 
 | Title | GitHub | Year |
+| --- | --- | --- |
 | [Evaluating Large Language Models as Agents in the Clinic](https://arxiv.org/abs/2309.10895) | Not Available | 2024 |
 | [MedPAO: A Protocol-Driven Agent for Structuring Medical Reports](https://arxiv.org/abs/2510.04623) | [GitHub](https://github.com/MiRL-IITM/medpao-agent) | 2025 |
 | [Adaptable image quality assessment using meta-reinforcement learning of task amenability](https://arxiv.org/abs/2108.04359) | [GitHub](https://github.com/s-sd/task-amenability) | 2023 |
@@ -535,6 +536,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 } 
+
 
 
 
