@@ -48,6 +48,7 @@ This repository is a comprehensive and systematic research resource library for 
 
 ## 🔥 News
 **[2026/10]** Our survey, [The Landscape of Medical Agents: A Survey](https://openreview.net/forum?id=4pwRl2G6je), has been accepted for publication in **Transactions on Machine Learning Research (TMLR 2026)**.
+
 **[2026/3/10]** We release **:A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems**! Click here to visit: [medmaslab](https://github.com/NUS-Project/MedMASLab/tree/main)
 
 ## 🔥 Add Your Paper in our Repo and Survey!!!!! Join our group and post your agent work!!!!
